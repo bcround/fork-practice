@@ -1,0 +1,9 @@
+.name {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 100px;
+}
